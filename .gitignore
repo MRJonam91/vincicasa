@@ -1,0 +1,8 @@
+config.php
+**/config.php
+.env
+.env.*
+!*.example
+__pycache__/
+storici/vincicasa-silop.txt
+storici/archivio-ufficiale.html
