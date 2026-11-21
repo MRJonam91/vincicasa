@@ -1,7 +1,26 @@
 # VinciCasa
 
-Cartella del progetto VinciCasa per manoj.it. Preparazione dati e analisi; le future funzioni saranno sviluppate separatamente.
+Un progetto per esplorare i risultati delle estrazioni VinciCasa.
 
-Archivio consultabile: https://www.sisal.it/estrazioni/vincicasa. In locale `storici/vincicasa-silop.txt` contiene 3.552 righe dal 9 luglio 2014 al 31 ottobre 2026, provenienti da https://www.silop.it/script/archivi/VinciCasa/ArchivioVinciCasa.txt; confrontare i dati con la fonte ufficiale e completare le estrazioni successive. Le condizioni di ripubblicazione non sono state verificate: il file è escluso dalla repository pubblica. È stata conservata in locale anche una pagina dell'archivio ufficiale.
+## Stato del progetto
 
-Le estrazioni sono casuali: i dati storici non prevedono risultati futuri.
+Il progetto è in fase di preparazione; l’applicazione non è ancora presente in questa repository.
+
+## Dati e fonti
+
+Le estrazioni possono essere consultate nell’[archivio ufficiale](https://www.vincicasa.it/archivio-estrazioni). Uno storico completo riutilizzabile non è ancora incluso nella repository.
+
+Le estrazioni sono casuali: frequenze e risultati passati non permettono di prevedere quelli futuri.
+
+## Sostieni il progetto
+
+Se questo lavoro ti è utile, puoi sostenere manutenzione e sviluppo con una donazione, anche piccola:
+
+- [GitHub Sponsors](https://github.com/sponsors/MRJonam91)
+- [Ko-fi](https://ko-fi.com/mrjonam)
+- [Buy Me a Coffee](https://buymeacoffee.com/mrjonam)
+- [PayPal](https://paypal.me/manorollo)
+
+## Licenza
+
+Il codice originale è distribuito con [licenza MIT](LICENSE). Marchi, nomi e contenuti di terzi appartengono ai rispettivi titolari e seguono le loro condizioni.
